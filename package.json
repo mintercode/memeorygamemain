@@ -1,0 +1,23 @@
+{
+  "name": "Memorygamemain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintercode/memeorygamemain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintercode/memeorygamemain/issues"
+  },
+  "homepage": "https://github.com/mintercode/memeorygamemain#readme",
+  "devDependencies": {
+    "cssnano": "^5.1.12"
+  }
+}
