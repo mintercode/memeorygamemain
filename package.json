@@ -2,7 +2,6 @@
   "name": "Memorygamemain",
   "version": "1.0.0",
   "description": "",
-
   "scripts": {
     "build": "parcel build index.html"
   },
